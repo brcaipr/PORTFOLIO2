@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Didact+Gothic&family=Montserrat:wght@100&display=swap');
+
+#nombre{
+    color: #fff;
+    font-family: 'Montserrat', sans-serif;
+    
+}
+h2 {
+  color: #fff;
+  
+}
+p {
+  color: #fff;
+  font-family: 'Didact Gothic', sans-serif;
+}
+img {
+  position: relative;
+  border-radius: 50%;
+  width: 152px;
+  height: 152px;
+  margin-top: -85px;
+  z-index: 1;
+}
+
+#acercade {
+    color: #fff;
+  margin: 25px auto;
+  font-family: 'Didact Gothic', sans-serif;
+}
+  
+.fa-pencil{
+  color: rgb(65, 65, 65);
+  height: 10px;
+  margin: 25px auto;
+}
